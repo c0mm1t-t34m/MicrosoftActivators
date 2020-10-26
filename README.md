@@ -7,7 +7,7 @@ These scripts are for people who can't pay for a microsoft windows or office lic
 3°) Make sure you have access to internet <br>
 4°) Open the script with admin rights and wait for activation ! <br>
 
-<em>Sometimes you will need to deactivate windows defender before...</em>
+<em>Sometimes you will need to disable windows defender before...</em>
 
 # Authors :
 Coder : C0MM1T <br>
