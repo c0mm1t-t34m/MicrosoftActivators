@@ -10,5 +10,5 @@ These scripts are for people who can't pay for a microsoft windows or office lic
 <em>Sometimes you will need to disable windows defender before...</em>
 
 # Authors :
-Coder : C0MM1T <br>
+Coder : @C0MM1T-L34D3R <br>
 Credits : KMS
